@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
     title: 'ZL Server Wiki',
     tagline: '感谢每一位玩家的到来💡',
-    url: 'https://docs.tblstudio.cn',
+    url: 'https://docsnew.tblstudio.cn',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
