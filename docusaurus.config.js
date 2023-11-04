@@ -11,7 +11,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'ZL', // Usually your GitHub org/user name.
+    organizationName: 'wling-art', // Usually your GitHub org/user name.
     projectName: 'ZL', // Usually your repo name.
 
     presets: [
