@@ -4,32 +4,31 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: '便于使用',
+        title: '为什么使用我们的服务器Wiki？',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+            我们的服务器Wiki旨在为您提供以下方面的帮助，以使您在游戏中更加轻松、顺利地享受。<br></br>
+            新手入门指南、游戏机制解释、资源和建筑指导社区活动和事件、常见问题解答
+
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '如何使用服务器Wiki？',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+            在Wiki中，我们努力将所有的信息都整理得清晰易懂，以便每位玩家都能受益。如果您有任何反馈、建议或需要帮助，我们管理员团队随时愿意为您提供支持。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '我该做什么？',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+            感谢您选择加入我们的游戏社区，我们希望这个Wiki能够为您的游戏之旅增添乐趣和便利！
       </>
     ),
   },
