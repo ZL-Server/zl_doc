@@ -11,8 +11,6 @@ const config = {
     title: 'ZL Server Wiki',
     tagline: '感谢每一位玩家的到来💡',
     favicon: 'img/favicon.ico',
-
-
     // Set the production url of your site here
     url: 'https://docsnew.tblstudio.cn',
 
