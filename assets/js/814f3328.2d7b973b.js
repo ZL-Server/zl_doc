@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkZL=self.webpackChunkZL||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u8fd0\u884c\u4e0b\u53bb\uff01","permalink":"/blog/wling","unlisted":false},{"title":"xxx","permalink":"/blog/haitang","unlisted":false}]}')}}]);
