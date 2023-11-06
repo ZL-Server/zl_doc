@@ -22,13 +22,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+                    editUrl: 'https://github.com/wling-art/zl_doc/tree/main/',
                 },
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
                     editUrl:
-                        'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+                        'https://github.com/wling-art/zl_doc/tree/main/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -51,11 +51,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                         type: 'doc',
                         docId: 'intro',
                         position: 'left',
-                        label: 'Tutorial',
+                        label: '教程',
                     },
-                    { to: '/blog', label: 'Blog', position: 'left' },
+                    { to: '/blog', label: '日志', position: 'left' },
                     {
-                        href: 'https://github.com/facebook/docusaurus',
+                        href: 'https://github.com/wling-art/zl_doc',
                         label: 'GitHub',
                         position: 'right',
                     },
@@ -68,7 +68,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                         title: 'Docs',
                         items: [
                             {
-                                label: 'Tutorial',
+                                label: '教程',
                                 to: '/docs/intro',
                             },
                         ],
@@ -78,7 +78,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                         items: [
                             {
                                 label: 'GitHub',
-                                href: 'hhttps://github.com/wling-art/ZL_Gitbook',
+                                href: 'https://github.com/wling-art/zl_doc/tree/main/docs',
                             },
                         ],
                     },
@@ -86,8 +86,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 copyright: `Copyright © ${new Date().getFullYear()} ZL, Inc. Built with Docusaurus.`,
             },
             prism: {
-                theme: lightCodeTheme,
                 darkTheme: darkCodeTheme,
+                theme: lightCodeTheme,
             },
         }),
 });
