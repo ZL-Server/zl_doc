@@ -48,7 +48,7 @@ sidebar_position: 1
 * 第 n 次违规：禁止进入服务器 7 天&#x20;
 
 :::info 信息
-此处请参考[**一个正确的游戏名**](../gai-shu/yi-ge-zheng-que-de-you-xi-ming.md#4.-bi-mian-min-gan-nei-rong)
+此处请参考[**一个正确的游戏名**](../入门/yi-ge-zheng-que-de-you-xi-ming#4-避免敏感内容)
 :::
 
 ## 禁止使用外挂工具：

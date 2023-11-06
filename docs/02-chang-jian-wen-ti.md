@@ -22,7 +22,7 @@ sidebar_position: 2
 
 > ### 游戏时遇到问题怎么办？
 
-您可以通过[联系我们](入门/lian-xi-wo-men)
+您可以通过[联系我们](其他/lian-xi-wo-men)
 
 :::warning
 恶意反馈将会受到处罚，请根据实际情况反馈
