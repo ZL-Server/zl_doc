@@ -6,9 +6,9 @@ coverY: 0
 
 # 👋 欢迎来到服务器 Wiki
 
-{% hint style="warning" %}
+:::warning
 Wiki 可能因为管理员安排推迟更新,若您想要了解没有更新的内容,请等待我们更新！
-{% endhint %}
+:::
 
 欢迎来到我们服务器的官方Wiki页面！这里是一个为您提供帮助、指南和有关游戏世界的有用信息的中心。我们致力于为每一位玩家提供一个愉快和充满乐趣的游戏体验，而这个Wiki正是为此而存在的。
 
@@ -46,10 +46,10 @@ Wiki 可能因为管理员安排推迟更新,若您想要了解没有更新的�
 
 ## 快捷链接🔗
 
-{% content-ref url="jiao-cheng/xiao-ji-qiao.md" %}
+{% content-ref url="jiao-cheng/xiao-ji-qiao.md
 [xiao-ji-qiao.md](jiao-cheng/xiao-ji-qiao.md)
 {% endcontent-ref %}
 
-{% content-ref url="fu-wu-qi-wan-fa/geng-duo-de-diao-yu/" %}
+{% content-ref url="fu-wu-qi-wan-fa/geng-duo-de-diao-yu/
 [geng-duo-de-diao-yu](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/)
 {% endcontent-ref %}

@@ -1,17 +1,6 @@
 ---
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+sidebar_position: 2
 ---
-
 # 📡 群规
 
 ## 尊重他人：
@@ -66,6 +55,6 @@ layout:
 * 第二次违规：禁言 10 分钟
 * 第 n 次违规：禁言 10 \* n 分钟
 
-:::success
+:::success 提示
 我们鼓励玩家发布模组、光影等内容,前提是它们必须通过我们的审核。
 :::

@@ -1,20 +1,21 @@
 ---
-description: 让Minecraft变得更好！
+sidebar_position: 1
 ---
 
 # 😊 更好的Minecraft
+> 让Minecraft变得更好！
 
 ## 双开门
 
 双门现在将在您打开其中一侧时自动打开另一侧，因此两扇门同时打开和关闭。 无论玩家是否右键单击它们或涉及红石。
 
-> <img src="https://oddlama.github.io/vane/assets/gifs/double-doors.gif" alt="" data-size="original">
+![横幅](https://oddlama.github.io/vane/assets/gifs/double-doors.gif)
 
 ## 更好的农业
 
 右键完全生长的植物即可立即收获并重新种植种子。如果植物具有独特的种子，则不会丢弃种子。
 
-> <img src="https://oddlama.github.io/vane/assets/gifs/better-harvesting.gif" alt="" data-size="original">
+![横幅](https://oddlama.github.io/vane/assets/gifs/better-harvesting.gif)
 
 ## 查找物品
 
@@ -24,13 +25,13 @@ description: 让Minecraft变得更好！
 
 如果您的库存中已有相同类型的物品，您也可以只 按住 **`Shift`** 并在打开的库存中右键单击它以执行对该项目类型的搜索。
 
-> <img src="https://oddlama.github.io/vane/assets/gifs/find_item.gif" alt="" data-size="original">
+![横幅](https://oddlama.github.io/vane/assets/gifs/find_item.gif)
 
 ## 草径加速
 
 你会在草径上跑得更快
 
-> <img src="https://oddlama.github.io/vane/assets/gifs/sickle.gif" alt="" data-size="original">
+![横幅](https://oddlama.github.io/vane/assets/gifs/sickle.gif)
 
 ## 镰刀
 
@@ -38,12 +39,10 @@ description: 让Minecraft变得更好！
 
 ### 制作方法
 
-> <img src="../.gitbook/assets/{3B765E5C-EC7F-49b5-88F6-2FC3D9C5E550} (2).png" alt="" data-size="original">
+![横幅](../assets/maketable.png)
 
 ### 预览
 
-> <img src="../.gitbook/assets/sickle.gif" alt="" data-size="original">
+![横幅](../assets/sickle.gif)
 
-{% embed url="https://oddlama.github.io/vane/
-插件官方网站
-{% endembed %}
+[插件官方网站](https://oddlama.github.io/vane/)

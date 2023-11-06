@@ -12,9 +12,9 @@ description: 这里会解答您的问题,您也可以向我们提出问题
 
 可以,我们是离线服,您可以使用离线账户加入服务器
 
-{% hint style="warning" %}
+:::warning
 请不要创建多个离线账户，这是违反服务器规则的
-{% endhint %}
+:::
 
 > ### 点券如何充值获得？
 
@@ -24,9 +24,9 @@ description: 这里会解答您的问题,您也可以向我们提出问题
 
 您可以通过[联系我们](gai-shu/lian-xi-wo-men.md)
 
-{% hint style="warning" %}
+:::warning
 恶意反馈将会受到处罚，请根据实际情况反馈
-{% endhint %}
+:::
 
 > ### 我能邀请我的朋友一起玩吗？
 

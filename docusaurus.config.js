@@ -41,6 +41,7 @@ const config = {
             /** @type {import('@docusaurus/preset-classic').Options} */
             ({
                 docs: {
+                    sidebarCollapsed: false,
                     sidebarPath: './sidebars.js',
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
@@ -67,6 +68,7 @@ const config = {
             docs: {
                 sidebar: {
                     hideable: true,
+                    autoCollapseCategories: false,
                 },
             },
             // Replace with your project's social card
@@ -87,7 +89,7 @@ const config = {
                         position: 'left',
                         label: '教程',
                     },
-                    { to: '/blog', label: '日志', position: 'left' },
+                    { to: '/blog', label: 'small博客', position: 'left' },
                     {
                         href: 'https://github.com/wling-art/zl_doc',
 

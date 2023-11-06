@@ -1,8 +1,8 @@
 ---
-description: 谁会是那个最引人注目的呢？
+sidebar_position: 2
 ---
-
 # 📊 玩家信息统计
+> 谁会是那个最引人注目的呢？
 
 ## 什么是玩家信息统计？
 
@@ -10,10 +10,16 @@ description: 谁会是那个最引人注目的呢？
 
 每个统计信息都有对应的成就，而每个成就也有对应的排名\~
 
-<figure><img src="https://img1.imgtp.com/2023/09/16/H0zUKk0Y.png" alt=""><figcaption><p>网页</p></figcaption></figure>
+<iframe
+        class="map"
+        src="https://tblstudio.cn:8124/stats/index.html"
+        width="100%"
+        height="800"
+        frameborder="0"
+      ></iframe>
 
 ## 如何查看玩家信息？
 
 您可以通过这个网站查看我们服务器的信息页面
 
-{% embed url="https://tblstudio.cn:8124/stats/index.html
+[查看信息](https://tblstudio.cn:8124/stats/index.html)

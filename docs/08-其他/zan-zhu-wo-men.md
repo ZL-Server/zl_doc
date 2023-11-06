@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 # ❤ 支持我们
 
 
@@ -17,7 +20,6 @@
 
 * **特殊称号和头衔：** 作为赞助者，您可以获得独特的游戏内称号和头衔，以彰显您的支持身份。
 
-<img src="https://img1.imgtp.com/2023/08/26/UxKAyNdz.png" alt="">
 
 :::info
 注意：请使用 /plt open 来进行称号的操作
@@ -30,15 +32,13 @@
 
 如果您想成为我们服务器的赞助者，您可以使用微信方式赞赏我们！
 
-爱发电：
-
-{% embed url="https://afdian.net/a/ZLServer
+[爱发电](https://afdian.net/a/ZLServer)
 
 微信支持（不推荐，麻烦）：
 
 需要备注你的游戏名并联系作者
 
-<img src="https://img1.imgtp.com/2023/08/22/XzxGWGdg.png" alt="" width="375">
+![横幅](../assets/wechat.png)
 
 我们由衷感谢您对我们公益服务器的支持和关注。您的赞助不仅有助于服务器的持续发展，也使整个社区更加繁荣和温馨。
 

@@ -8,7 +8,7 @@
 
 > Tips:领地就是圈地，圈地就是领地
 >
-> **圈地工具：**木锄
+> **圈地工具：木锄**
 
 :::info
 领地功能只允许在主世界使用！
@@ -16,10 +16,7 @@
 
 ## 快速链接
 
-{% content-ref url="chuang-jian-ling-di.md
-[chuang-jian-ling-di.md](chuang-jian-ling-di.md)
-{% endcontent-ref %}
+[创建领地](./chuang-jian-ling-di)
 
-{% content-ref url="she-zhi-ling-di-quan-xian.md
-[she-zhi-ling-di-quan-xian.md](she-zhi-ling-di-quan-xian.md)
-{% endcontent-ref %}
+
+[设置领地权限](./she-zhi-ling-di-quan-xian)

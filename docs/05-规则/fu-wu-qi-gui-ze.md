@@ -1,18 +1,6 @@
 ---
-description: 适用于群规
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+sidebar_position: 1
 ---
-
 # 📃 服务器规则
 
 ## 尊重他人：
@@ -59,7 +47,7 @@ layout:
 * 第三次违规：禁止进入服务器 3 天
 * 第 n 次违规：禁止进入服务器 7 天&#x20;
 
-:::info
+:::info 信息
 此处请参考[**一个正确的游戏名**](../gai-shu/yi-ge-zheng-que-de-you-xi-ming.md#4.-bi-mian-min-gan-nei-rong)
 :::
 
@@ -82,7 +70,7 @@ layout:
 * 第三次违规：禁止进入服务器 3 天，扣除3000次元币。
 * 第n次违规：禁止进入服务器 7 天，并按次数扣除，公式：n \* 3000 = 总扣除次元币&#x20;
 
-:::info
+:::info 信息
 每次违规将**封禁对应小号**，并没收利用小号所得的财产。如果次元币不够扣将扣除至0。
 :::
 
@@ -96,6 +84,6 @@ layout:
 * 第四次违规：封号 12 天
 * 第 n 次违规：封号 30 天
 
-:::info
+:::info 信息
 每次违规会恢复到钻漏洞钱的当日的次元币记录！
 :::

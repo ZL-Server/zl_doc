@@ -33,7 +33,7 @@
 * PixelNinja
 * FantasyWizard
 
-{% hint style="danger" %}
+:::danger
 错误的例子
 
 1. **ProfanityPro**: 含有侮辱性的词汇。
@@ -46,4 +46,4 @@
 8. **SexyGoddess**: 含有不恰当的性暗示。
 9. **WD**: 字数没达到3\~16字符
 10. **张哥之足球梦想**：错误的字符
-{% endhint %}
+:::
