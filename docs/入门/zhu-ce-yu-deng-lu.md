@@ -18,21 +18,21 @@ description: 这真的很重要啊，新手一定要看清楚力
 
 请确保选择一个强密码，包含字母、数字和特殊字符，以确保您的账户安全。
 
-{% hint style="danger" %}
+:::danger 警告
 密码错误示范
 
 1. iamuser 密码过短
 2. 123456 安全性较低
-{% endhint %}
+:::
 
-{% hint style="success" %}
+:::success 正确
 密码正确示范
 
-1. {NO6)lH9thB0k/
+1. *NO6)lH9thB0k/
 2. e]iMz.4Bv7N$1D
 
 什么？太复杂了可以用
-{% endhint %}
+:::
 
 ### **1.2 登录账户：**
 
@@ -48,9 +48,9 @@ description: 这真的很重要啊，新手一定要看清楚力
 
 请务必牢记您的密码，以便在后续登录时使用。
 
-{% hint style="info" %}
+:::info 提示
 你可以使用聊天消息的方式进行登录和注册，而不是命令！
-{% endhint %}
+:::
 
 ## **2. 更改密码：**
 
