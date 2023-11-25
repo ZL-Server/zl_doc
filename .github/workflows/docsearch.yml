@@ -18,7 +18,7 @@ jobs:
         env:
           ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
-          CONFIG: ${{ cat docsearch.json }}
+          CONFIG: $(cat docsearch.json)
         run: |
           docker run \
             --env APPLICATION_ID=${ALGOLIA_APP_ID} \
