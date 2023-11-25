@@ -64,7 +64,8 @@ const config = {
 
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-        ({
+        ({  
+
             docs: {
                 sidebar: {
                     hideable: true,
@@ -132,7 +133,12 @@ const config = {
                 theme: prismThemes.github,
                 darkTheme: prismThemes.dracula,
             },
-        }),
+        }),    
+    algolia: {
+            apiKey: "c5e323036cd0b4980d1b7f3773018c6e",
+            indexName: "algoliaSearch",
+            appId: "4UEAFRY49X",
+        },
 };
 
 export default config;
