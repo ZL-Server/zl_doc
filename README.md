@@ -1,6 +1,6 @@
 # Website
 
-这个网页用 [Docusaurus 2](https://docusaurus.io/), 制作
+这个网页用 [Docusaurus 3](https://docusaurus.io/), 制作
 
 ### 安装
 
